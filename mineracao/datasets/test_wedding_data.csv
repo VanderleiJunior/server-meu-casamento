@@ -1,0 +1,61 @@
+Quantos convidados?,Terá festa?,Qual será a cidade?,Terá religioso?,Em que época do ano vocês se casarão?,Quais serviços você pretende contratar?,Qual é o orçamento planejado para o casamento?,Como você imagina o estilo do seu casamento?,Em qual período do dia será a cerimônia?,Qual o tipo de local você deseja para o casamento?,"Vocês estão planejando uma lua de mel? Se sim, qual o destino?"
+395,Sim,Porto Alegre,Não,Primavera,"Buffet, Celebrante, Som e Iluminação, Bartender, Fotógrafo/Videomaker",36000,Formal,Noite,Em ambiente fechado,Bali
+450,Não,Belo Horizonte,Sim,Verão,"Flores/Decoração, Celebrante",17500,Semi-formal,Noite,Ao ar livre,Toscana
+125,Não,Belo Horizonte,Sim,Inverno,"Cerimonialista, Entretenimento (DJ, Banda)",37000,Semi-formal,Noite,Religioso,Não
+193,Sim,Belo Horizonte,Não,Primavera,"Cabelereira, Celebrante",13500,Semi-formal,Manhã,Em ambiente fechado,Toscana
+369,Não,São Paulo,Sim,Outono,"Convites/Material gráfico, Salão, Flores/Decoração",22500,Casual,Tarde,Religioso,Cancún
+56,Sim,Porto Alegre,Sim,Primavera,"Salão, Celebrante",24500,Casual,Tarde,Ao ar livre,Cancún
+352,Sim,Fortaleza,Sim,Verão,"Fotógrafo/Videomaker, Bartender, Buffet",11000,Semi-formal,Noite,Ao ar livre,Não
+272,Não,Porto Alegre,Sim,Verão,"Salão, Convites/Material gráfico, Entretenimento (DJ, Banda), Som e Iluminação, Bartender, Cerimonialista",34000,Casual,Manhã,Religioso,Bali
+389,Não,Curitiba,Não,Primavera,"Cabelereira, Buffet, Flores/Decoração, Som e Iluminação",16000,Semi-formal,Noite,Não-religioso,Gramado
+79,Não,Curitiba,Sim,Primavera,"Buffet, Cabelereira, Celebrante",14000,Casual,Tarde,Em ambiente fechado,Não
+161,Sim,Rio de Janeiro,Não,Inverno,"Flores/Decoração, Cabelereira, Salão, Cerimonialista",29500,Semi-formal,Noite,Em ambiente fechado,Toscana
+162,Não,Belo Horizonte,Não,Inverno,"Fotógrafo/Videomaker, Entretenimento (DJ, Banda), Som e Iluminação, Bartender",15500,Casual,Manhã,Em ambiente fechado,Paris
+495,Não,Fortaleza,Não,Verão,"Entretenimento (DJ, Banda), Bartender, Celebrante, Cabelereira, Cerimonialista",47000,Formal,Tarde,Ao ar livre,Cancún
+107,Não,Belo Horizonte,Sim,Verão,"Salão, Doces e Bolo, Fotógrafo/Videomaker, Entretenimento (DJ, Banda), Bartender, Som e Iluminação",33500,Semi-formal,Manhã,Religioso,Bali
+476,Sim,São Paulo,Não,Primavera,"Fotógrafo/Videomaker, Celebrante, Cabelereira, Entretenimento (DJ, Banda)",27500,Semi-formal,Manhã,Ao ar livre,Fernando de Noronha
+78,Não,Fortaleza,Sim,Outono,"Som e Iluminação, Bartender, Convites/Material gráfico, Entretenimento (DJ, Banda)",39500,Semi-formal,Manhã,Não-religioso,Bali
+123,Sim,Fortaleza,Sim,Outono,"Salão, Som e Iluminação",13000,Formal,Tarde,Não-religioso,Bali
+247,Não,Rio de Janeiro,Sim,Primavera,"Cabelereira, Buffet, Entretenimento (DJ, Banda), Som e Iluminação, Flores/Decoração, Doces e Bolo",45500,Formal,Noite,Religioso,Não
+445,Não,Curitiba,Não,Outono,"Celebrante, Flores/Decoração, Cerimonialista, Entretenimento (DJ, Banda)",23000,Formal,Tarde,Religioso,Maldivas
+79,Sim,Salvador,Não,Inverno,"Bartender, Fotógrafo/Videomaker, Buffet, Celebrante, Salão",48500,Semi-formal,Tarde,Em ambiente fechado,Não
+423,Sim,São Paulo,Sim,Verão,"Convites/Material gráfico, Cabelereira, Salão, Bartender",8500,Formal,Manhã,Ao ar livre,Não
+145,Não,Fortaleza,Não,Primavera,"Som e Iluminação, Cerimonialista, Buffet",26000,Casual,Noite,Religioso,Fernando de Noronha
+327,Sim,Porto Alegre,Não,Inverno,"Cerimonialista, Doces e Bolo, Fotógrafo/Videomaker, Buffet, Celebrante, Bartender",5500,Semi-formal,Manhã,Não-religioso,Toscana
+248,Sim,Salvador,Não,Primavera,"Cabelereira, Fotógrafo/Videomaker",49500,Semi-formal,Tarde,Não-religioso,Maldivas
+277,Sim,Fortaleza,Sim,Verão,"Celebrante, Buffet",38000,Semi-formal,Manhã,Não-religioso,Gramado
+345,Não,Belo Horizonte,Sim,Verão,"Buffet, Flores/Decoração, Fotógrafo/Videomaker, Entretenimento (DJ, Banda), Salão, Celebrante",14000,Formal,Manhã,Ao ar livre,Toscana
+460,Não,São Paulo,Não,Verão,"Buffet, Doces e Bolo, Som e Iluminação, Flores/Decoração",18000,Casual,Manhã,Não-religioso,Cancún
+364,Sim,Salvador,Sim,Inverno,"Flores/Decoração, Doces e Bolo, Convites/Material gráfico, Cerimonialista, Buffet, Salão",28000,Formal,Manhã,Religioso,Maldivas
+427,Não,Porto Alegre,Sim,Verão,"Doces e Bolo, Buffet",5500,Semi-formal,Manhã,Ao ar livre,Bali
+174,Não,São Paulo,Não,Primavera,"Convites/Material gráfico, Buffet, Cerimonialista, Entretenimento (DJ, Banda), Salão",34500,Formal,Noite,Em ambiente fechado,Não
+366,Sim,São Paulo,Sim,Verão,"Buffet, Flores/Decoração, Cerimonialista",30500,Casual,Tarde,Não-religioso,Cancún
+457,Não,Curitiba,Não,Outono,"Entretenimento (DJ, Banda), Bartender, Celebrante, Convites/Material gráfico, Doces e Bolo",47500,Casual,Noite,Em ambiente fechado,Bali
+88,Sim,Salvador,Não,Verão,"Som e Iluminação, Celebrante, Salão, Bartender, Doces e Bolo",29000,Semi-formal,Manhã,Em ambiente fechado,Fernando de Noronha
+410,Sim,São Paulo,Não,Outono,"Buffet, Convites/Material gráfico, Cerimonialista, Bartender",20500,Casual,Manhã,Religioso,Maldivas
+81,Não,Belo Horizonte,Não,Primavera,"Entretenimento (DJ, Banda), Doces e Bolo, Fotógrafo/Videomaker, Celebrante, Convites/Material gráfico, Flores/Decoração",28500,Casual,Manhã,Não-religioso,Cancún
+461,Sim,Belo Horizonte,Não,Primavera,"Cerimonialista, Bartender",9500,Formal,Manhã,Religioso,Toscana
+267,Não,Belo Horizonte,Não,Verão,"Celebrante, Entretenimento (DJ, Banda), Cerimonialista, Buffet",21500,Formal,Noite,Não-religioso,Cancún
+347,Sim,Fortaleza,Sim,Inverno,"Buffet, Cerimonialista, Entretenimento (DJ, Banda), Flores/Decoração",37500,Casual,Tarde,Não-religioso,Toscana
+374,Sim,Fortaleza,Sim,Verão,"Doces e Bolo, Cabelereira, Entretenimento (DJ, Banda)",29500,Semi-formal,Tarde,Não-religioso,Gramado
+308,Não,Fortaleza,Não,Outono,"Som e Iluminação, Flores/Decoração, Cerimonialista, Fotógrafo/Videomaker, Cabelereira, Buffet",48000,Formal,Manhã,Ao ar livre,Bali
+151,Não,Fortaleza,Não,Outono,"Flores/Decoração, Entretenimento (DJ, Banda), Celebrante, Fotógrafo/Videomaker",28000,Formal,Tarde,Em ambiente fechado,Gramado
+59,Sim,Belo Horizonte,Não,Inverno,"Som e Iluminação, Entretenimento (DJ, Banda), Celebrante, Bartender, Buffet, Doces e Bolo",36000,Casual,Noite,Não-religioso,Gramado
+222,Sim,Porto Alegre,Sim,Primavera,"Entretenimento (DJ, Banda), Cabelereira",46500,Semi-formal,Manhã,Em ambiente fechado,Fernando de Noronha
+479,Sim,São Paulo,Sim,Primavera,"Flores/Decoração, Entretenimento (DJ, Banda)",23000,Formal,Noite,Religioso,Gramado
+318,Sim,São Paulo,Não,Primavera,"Celebrante, Doces e Bolo, Bartender, Som e Iluminação, Cabelereira",11000,Formal,Manhã,Ao ar livre,Toscana
+176,Não,Curitiba,Não,Verão,"Salão, Cabelereira, Buffet, Cerimonialista, Entretenimento (DJ, Banda), Convites/Material gráfico",21000,Semi-formal,Noite,Não-religioso,Bali
+142,Sim,Porto Alegre,Não,Inverno,"Entretenimento (DJ, Banda), Cerimonialista, Som e Iluminação, Flores/Decoração, Bartender, Cabelereira",45000,Semi-formal,Manhã,Ao ar livre,Gramado
+466,Sim,Salvador,Sim,Primavera,"Fotógrafo/Videomaker, Celebrante, Entretenimento (DJ, Banda), Doces e Bolo, Bartender, Buffet",49500,Formal,Noite,Não-religioso,Maldivas
+197,Sim,Belo Horizonte,Não,Verão,"Bartender, Flores/Decoração, Cabelereira",43000,Semi-formal,Tarde,Em ambiente fechado,Gramado
+70,Sim,Belo Horizonte,Não,Verão,"Som e Iluminação, Convites/Material gráfico",16500,Semi-formal,Tarde,Religioso,Cancún
+451,Não,Curitiba,Não,Verão,"Cerimonialista, Fotógrafo/Videomaker, Cabelereira",5500,Formal,Tarde,Religioso,Maldivas
+414,Não,Belo Horizonte,Sim,Verão,"Cabelereira, Convites/Material gráfico, Doces e Bolo, Flores/Decoração, Entretenimento (DJ, Banda), Buffet",36500,Formal,Tarde,Religioso,Não
+397,Sim,Curitiba,Não,Primavera,"Som e Iluminação, Convites/Material gráfico, Buffet, Flores/Decoração",13500,Casual,Tarde,Em ambiente fechado,Cancún
+152,Sim,Belo Horizonte,Não,Inverno,"Fotógrafo/Videomaker, Celebrante, Entretenimento (DJ, Banda), Doces e Bolo, Cerimonialista",13500,Casual,Noite,Não-religioso,Toscana
+118,Não,Salvador,Não,Verão,"Flores/Decoração, Fotógrafo/Videomaker, Doces e Bolo",42000,Semi-formal,Tarde,Em ambiente fechado,Cancún
+250,Não,Fortaleza,Sim,Verão,"Bartender, Flores/Decoração, Buffet, Fotógrafo/Videomaker, Salão, Cerimonialista",19500,Semi-formal,Tarde,Não-religioso,Gramado
+391,Sim,Fortaleza,Não,Verão,"Cabelereira, Flores/Decoração",39500,Semi-formal,Noite,Não-religioso,Cancún
+189,Não,Fortaleza,Não,Primavera,"Convites/Material gráfico, Cabelereira, Bartender, Buffet, Doces e Bolo",26000,Formal,Noite,Não-religioso,Bali
+213,Não,Fortaleza,Não,Primavera,"Fotógrafo/Videomaker, Convites/Material gráfico, Cabelereira, Flores/Decoração",41500,Semi-formal,Manhã,Religioso,Fernando de Noronha
+85,Não,Fortaleza,Sim,Verão,"Salão, Doces e Bolo",41000,Casual,Tarde,Religioso,Bali
